@@ -1,0 +1,40 @@
+.:
+total 20
+drwxrwxr-x 5 master master 4096 Oct  2 03:01 .
+drwxrwxr-x 3 master master 4096 Oct  2 03:05 ..
+drwxrwxr-x 2 master master 4096 Oct  2 03:01 archives
+drwxrwxr-x 3 master master 4096 Oct  2 03:02 projects
+drwxrwxr-x 2 master master 4096 Oct  2 03:01 tools
+
+./archives:
+total 8
+drwxrwxr-x 2 master master 4096 Oct  2 03:01 .
+drwxrwxr-x 5 master master 4096 Oct  2 03:01 ..
+
+./projects:
+total 12
+drwxrwxr-x 3 master master 4096 Oct  2 03:02 .
+drwxrwxr-x 5 master master 4096 Oct  2 03:01 ..
+drwxrwxr-x 4 master master 4096 Oct  2 03:02 web
+
+./projects/web:
+total 16
+drwxrwxr-x 4 master master 4096 Oct  2 03:02 .
+drwxrwxr-x 3 master master 4096 Oct  2 03:02 ..
+drwxrwxr-x 2 master master 4096 Oct  2 03:02 backend
+drwxrwxr-x 2 master master 4096 Oct  2 03:02 frontend
+
+./projects/web/backend:
+total 8
+drwxrwxr-x 2 master master 4096 Oct  2 03:02 .
+drwxrwxr-x 4 master master 4096 Oct  2 03:02 ..
+
+./projects/web/frontend:
+total 8
+drwxrwxr-x 2 master master 4096 Oct  2 03:02 .
+drwxrwxr-x 4 master master 4096 Oct  2 03:02 ..
+
+./tools:
+total 8
+drwxrwxr-x 2 master master 4096 Oct  2 03:01 .
+drwxrwxr-x 5 master master 4096 Oct  2 03:01 ..

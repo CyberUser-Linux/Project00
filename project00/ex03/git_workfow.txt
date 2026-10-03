@@ -1,0 +1,13 @@
+nano README.md
+git init
+git add README.md
+git status
+git commit -m "Adding README.md file"
+git branch -M main42
+git branch
+git remote add origin https://github.com/CyberUser-Linux/project00-ex00-ex01-ex3.git
+git push -u origin main42
+nano git_workfow.txt
+git add git_workfow.txt
+git commit -m "add git_workfow.txt to stage"
+git push -u origin main42
